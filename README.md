@@ -26,4 +26,4 @@ To view my portfolio locally, follow these steps:
 
 ## Contact
 Feel free to reach out:
-- Email: noziponozie@gmail.com
+- Email: nomcebo.mkhwanazi19@gmail.com
