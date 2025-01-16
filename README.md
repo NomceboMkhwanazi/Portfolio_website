@@ -7,8 +7,9 @@
 
 
 ## Technologies Used
-- Python
-- Data  Virtualization
+- HTML
+- CSS
+- JavaScript
   
 
 ## Installation
